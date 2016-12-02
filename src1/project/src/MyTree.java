@@ -30,7 +30,7 @@ public class MyTree {
   /**
    * Inserts a node in this tree. The tree is sorted by the node values.  If a
    * node with the same node value is already in the tree nothing happens.
-   *
+   * Tobbe experimenting on experimental branch
    * @param node The node to insert in this tree.
    * @return True if node is inserted, false otherwise.
    */
