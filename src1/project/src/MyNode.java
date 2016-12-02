@@ -8,6 +8,7 @@ package tree;
  */
 
 //David change1
+//David change2
 public class MyNode {
   private MyNode father;
   private MyNode left;
