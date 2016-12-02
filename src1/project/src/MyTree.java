@@ -8,6 +8,7 @@ import tree.MyNode;
  * @author Torbjorn Ekman
  * @see MyNode
  */
+//David change 1
 public class MyTree {
   private MyNode root;
 
