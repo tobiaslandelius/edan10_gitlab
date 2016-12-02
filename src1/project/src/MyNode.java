@@ -16,7 +16,7 @@ public class MyNode {
 
   /**
    * Class constructor initializing this node's value.
-   * 
+   * Tobbe change!
    * @param value The value of this node.
    */
   public MyNode(int value) {
