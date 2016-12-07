@@ -7,6 +7,7 @@ Second change
 
 Third change
 
+More changes 
 final line
 
 final final line
